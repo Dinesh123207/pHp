@@ -1,10 +1,4 @@
-<?php include "partials/header.php";?>
-
-
-
-
-
-<!-- <!doctype html>
+<!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,11 +11,4 @@
 <header>
     <a href="index.php">Home</a>
     <a href="about.php">About</a>
-</header> -->
-<h3>Georgia, Tbilisi 5&#8451;</h3>
-<h1>Welcome to my cool website</h1>
-<footer>
-    Copyright &copy; 2020 TheCodeholic
-</footer>
-</body>
-</html>
+</header>
