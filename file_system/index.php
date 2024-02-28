@@ -24,7 +24,7 @@ $file = scandir('./');
 $userJson = file_get_contents('https://www.dronanotes.live/');
 echo $userJson;
 
-// https://www.php.net/manual/en/book.filesystem.php
+// https://www.php.net/manual/en/book.filesystem.php helpful link
 // file_exists
 // is_dir
 // filemtime
