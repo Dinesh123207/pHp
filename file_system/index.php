@@ -1,11 +1,15 @@
 <?php
 // Magic constants
 
+
 // Create directory
+
 
 // Rename directory
 
+
 // Delete directory
+
 
 // Read files and folders inside directory
 
